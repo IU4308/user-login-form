@@ -1,0 +1,2 @@
+2024:10:23	15:49:34	d42a344e-c39f-4337-b622-3a6535005cc1	Error: Not allowed by CORS
+2024:10:25	15:37:44	e53ad4ab-700c-46c8-86e1-9cebb1baec52	TypeError: authHeader?.startsWidth is not a function
